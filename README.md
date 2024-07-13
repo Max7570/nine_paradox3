@@ -18,10 +18,10 @@
         <p>
         Парадокс что 0,(9) равняется единице существует уже давно и много людей пыталось его разрешить, но безуспешно. В рефератах снизу я разобрал три его главных доказательства и доказал обратное.
         </p>
-        <a href="https://drive.google.com/file/d/1flORhGWPH8FYJTOga6HR_xMaQefj9_7i/view?usp=drive_link" download="nine_paradox_ru.pdf">
+        <a href="https://drive.google.com/file/d/1Mqhv0KG6xdhISu_TkqevyUxKoFcfyLqh/view?usp=drive_link" download="nine_paradox_ru3.pdf">
             <button>Скачать</button>
         </a>
-        <a href="https://drive.google.com/file/d/1PQoe8k2rRYY57QtcxJbKqyLSFpf7AVlF/view?usp=drive_link" download="nine_paradox_eng.pdf">
+        <a href="https://drive.google.com/file/d/1bJQO6GgN2t6A5BMixUnoP1xunROXGvdI/view?usp=drive_link" download="nine_paradox_eng3.pdf">
             <button>Download</button>
         </a>
         <hr>
